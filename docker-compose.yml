@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  webapi:
+    build: ./WebAPI
+    ports:
+      - "5000:80" # Map container port 80 to host port 5000
+
+  consoleapp1:
+    build: ./ConsoleApp1
+    depends_on:
+      - webapi
+    entrypoint: ["dotnet", "ConsoleApp1.dll"]

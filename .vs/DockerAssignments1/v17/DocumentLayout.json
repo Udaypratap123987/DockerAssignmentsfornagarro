@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67F28605-ED22-4E42-BDF7-2A708AD25BBB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\udaysingh01\\downloads\\dockerassignments1\\consoleapp1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67F28605-ED22-4E42-BDF7-2A708AD25BBB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F28605-ED22-4E42-BDF7-2A708AD25BBB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\udaysingh01\\downloads\\dockerassignments1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F28605-ED22-4E42-BDF7-2A708AD25BBB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340CD704-A66F-46DD-8A87-12196497057A}|WebAPI\\WebAPI.csproj|c:\\users\\udaysingh01\\downloads\\dockerassignments1\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{340CD704-A66F-46DD-8A87-12196497057A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340CD704-A66F-46DD-8A87-12196497057A}|WebAPI\\WebAPI.csproj|c:\\users\\udaysingh01\\downloads\\dockerassignments1\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340CD704-A66F-46DD-8A87-12196497057A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340CD704-A66F-46DD-8A87-12196497057A}|WebAPI\\WebAPI.csproj|c:\\users\\udaysingh01\\downloads\\dockerassignments1\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{340CD704-A66F-46DD-8A87-12196497057A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\WebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\WebAPI\\Startup.cs",
+              "RelativeToolTip": "WebAPI\\Startup.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:16:00.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\ConsoleApp1\\Dockerfile",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Dockerfile",
+              "ToolTip": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\ConsoleApp1\\Dockerfile",
+              "RelativeToolTip": "ConsoleApp1\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-13T03:59:50.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T03:58:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "WebAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\WebAPI\\Dockerfile",
+              "RelativeToolTip": "WebAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-13T03:58:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\udaysingh01\\Downloads\\DockerAssignments1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:54:56.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
